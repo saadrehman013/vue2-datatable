@@ -1,7 +1,7 @@
 {
   "name": "vue2-datatable-component-saadrehman013",
   "description": "The best Datatable for Vue.js 2.x which never sucks",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/min.js",
   "module": "src/main.js",
   "author": "Saad Sami <saadrehman013@gmail.com>",
