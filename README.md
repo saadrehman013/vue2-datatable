@@ -5,7 +5,7 @@
 [![build][build-img]][build-url]
 
 > The best Datatable for Vue.js 2.x which never sucks  
-> `npm i -S vue2-datatable-component`
+> `npm i -S vue2-datatable-component-saadrehman013`
 
 [Documentation](https://OneWayTech.github.io/vue2-datatable/doc) | 
 [Online examples](https://OneWayTech.github.io/vue2-datatable/examples/dist)
